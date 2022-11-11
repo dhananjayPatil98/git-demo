@@ -1,3 +1,3 @@
 # git-demo
-demo repository
+DEMO REPOSITORY.
 Just a demo repository for practicing git commands.
